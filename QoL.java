@@ -18,4 +18,7 @@ class QoL {
     public static void println(Object s) {
         System.out.println(s); //@FlareX
     }
+    public static void println() {
+        System.out.println();
+    }
 }
